@@ -9,4 +9,3 @@ import './app.scss';
 document.addEventListener("DOMContentLoaded", () => {
   new MainController();
 });
-//test
